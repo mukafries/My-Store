@@ -11,8 +11,8 @@ The frontend was quickly whipped up with bootstrap
 ## Search function
 ![Alt text](<images/search product.png>)
 
-### Create Page
+## Create Page
 ![Alt text](<images/create product.png>)
 
-### Update Page
+## Update Page
 ![Alt text](<images/update product.png>)
