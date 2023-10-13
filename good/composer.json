@@ -1,0 +1,15 @@
+{
+    "name": "iyans/good",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "mukafries",
+            "email": "blessing201880@outlook.com"
+        }
+    ],
+    "require": {}
+}
